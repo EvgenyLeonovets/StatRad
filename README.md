@@ -14,4 +14,4 @@ b. второй имеет 6 входов и выходов
 Коэффициент скорости обучения : 0.9
 
 3. Графики:
-![Image alt](https://github.com/{EvgenyLeonovets}/{StatRad}/raw/{master}/LossEpoch.png)
+![Image alt](https://github.com/EvgenyLeonovets/StatRad/raw/master/LossEpoch.png)
